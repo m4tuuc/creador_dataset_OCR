@@ -1,5 +1,5 @@
-# creador_dataset
- Destinado al armado de dataset para CannModel
+# Creador de dataset
+ Destinado al armado de dataset para CannModel version español
  
  ---
  
