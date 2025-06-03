@@ -1,4 +1,4 @@
-# Creador de dataset
+# Creador de dataset (poyecto personal)
  Destinado al armado de dataset para CannModel version español
  
  ---
